@@ -52,11 +52,12 @@ if DarthVader == "I'm your father, "
 
 //Problem Set 3:
 var red = true
-if red
+var blue = false
+if blue
 {
-    "red is my favorite color"
+    print("red is my favorite color")
 }
 else
 {
-    "red is not my favorite color"
+    print("I don't like red, I like blue.")
 }
